@@ -1,0 +1,62 @@
+h1 {
+font-family: p22-underground-pc, sans-serif;
+font-weight: 600;
+font-style: normal;
+  font-size: 60px;
+  color: #4682B4;
+}
+
+footnote {
+font-family: Helvetica, sans-serif;
+font-weight: 200;
+font-style: normal;
+  font-size: 10px;
+  color: whitesmoke;	
+}
+
+h2 {
+	font-family: Helvetica, sans-serif;
+font-weight: 200;
+font-style: normal;
+  font-size: 10px;
+  color: whitesmoke;
+}
+
+h3 {
+font-family: p22-underground-sc, sans-serif;
+font-weight: 600;
+font-style: normal;
+  font-size: 35px;
+  color: #696969;
+}
+h4 {
+	font-family: Helvetica Neue Bold, sans-serif;
+font-weight: 200;
+font-style: normal;
+  font-size: 20px;
+  color: #4682B4;		
+}
+
+h5 {
+	font-family: Helvetica Neue Thin, sans-serif;
+font-weight: 200;
+font-style: normal;
+  font-size: 30px;
+  color: #4682B4;	
+}
+
+h6 {
+	font-family: Helvetica, sans-serif;
+font-weight: 200;
+font-style: normal;
+  font-size: 10px;
+  color: #4682B4;		
+}
+
+p {
+	font-family: Helvetica Neue Light, sans-serif;
+font-weight: 200;
+font-style: normal;
+  font-size: 17px;
+  color: white;	
+}
